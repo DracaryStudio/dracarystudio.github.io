@@ -4,7 +4,7 @@
   <subtitle><![CDATA[AlloyTeamMobile of Tencent]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-09-13T12:14:07.940Z</updated>
+  <updated>2014-09-13T12:29:49.399Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -41,17 +41,18 @@
     <link href="http://yoursite.com/2014/09/13/%E5%BC%80%E7%AF%87/"/>
     <id>http://yoursite.com/2014/09/13/开篇/</id>
     <published>2014-09-13T08:01:00.000Z</published>
-    <updated>2014-09-13T08:30:05.000Z</updated>
-    <content type="html"><![CDATA[<h3 id="博客开篇。">博客开篇。</h3>
+    <updated>2014-09-13T12:25:21.000Z</updated>
+    <content type="html"><![CDATA[<p><a id="more"></a> </p>
+<h3 id="博客开篇。">博客开篇。</h3>
 <h5 id="为什么要建立博客">为什么要建立博客</h5>
 <ul>
 <li>第一，当然是为了我们的团队让更多的人知道我们了：）</li>
 <li>第二，是通过写博客和分享提高我们团队在项目建设上的整体实力：）</li>
 <li>第三，通过写博客与同行者进行交流互动，认识更多业界的人：）</li>
 <li>第四，通过分享我们的经历，分享我们的技术，帮助到更多需要的人，为推动业界的发展做出一点贡献：）</li>
-<li>第五，是凝聚团队向心力，提高团队使命感，发展团队文化。在这里可以自由施展，这里可以学习进步！这里就是你的家~~~</li>
+<li>第五，是凝聚团队向心力，提高团队使命感，发展团队文化。在这里可以自由施展，这里可以学习进步！这里就是你的家~~~<br><a id="more"></a> <h6 id="写什么样的博客">写什么样的博客</h6>
+</li>
 </ul>
-<h6 id="写什么样的博客">写什么样的博客</h6>
 <p>我们希望读者能从我们这里获得什么呢</p>
 <ul>
 <li>灵感，分享我们的，激发你们的；</li>
@@ -86,12 +87,16 @@
 <p><em>同时希望更多有梦想，有激情，爱学习的小伙伴加入我们，共同携手开始新的篇章。</em></p>
 <img src="/images/friend.png">]]></content>
     <summary type="html">
-    <![CDATA[<h3 id="博客开篇。">博客开篇。</h3>
+    <![CDATA[<p><!-- more --> </p>
+<h3 id="博客开篇。">博客开篇。</h3>
 <h5 id="为什么要建立博客">为什么要建立博客</h5>
 <ul>
 <li>第一，当然是为了我们的团队让更多的人知道我们了：）</li>
 <li>第二，是通过写博客和分享提高我们团队在项目建设上的整体实力：）</li>
-<]]>
+<li>第三，通过写博客与同行者进行交流互动，认识更多业界的人：）</li>
+<li>第四，通过分享我们的经历，分享我们的技术，帮助到更多需要的人，为推动业界的发展做出一点贡献：）</li>
+<li>第五，是凝聚团队向心力，提高团队使命感，发展团队文化。在这里可以自由施展，这里可以学习进步！这里就是你的家~~~<br>]]>
+    
     </summary>
     
       <category term="other" scheme="http://yoursite.com/tags/other/"/>
